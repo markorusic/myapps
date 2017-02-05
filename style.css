@@ -1,0 +1,23 @@
+#canvas{
+  position: fixed;
+}
+#count{
+  margin-left: 530px;
+  margin-bottom: 580px;
+}
+a{
+  pointer-events: none;
+  margin-left: 530px;
+}
+a:link {
+    color: #ffffff;
+}
+a:visited {
+    color: #ffffff;
+}
+a:hover {
+    color: #ffffff;
+}
+a:active {
+    color: #ffffff;
+}
